@@ -1,0 +1,14 @@
+C:\Users\jova002\Desktop\ODATA\HCOData\HCOData\bin\Debug\netcoreapp2.2\HCOData.deps.json
+C:\Users\jova002\Desktop\ODATA\HCOData\HCOData\bin\Debug\netcoreapp2.2\HCOData.runtimeconfig.json
+C:\Users\jova002\Desktop\ODATA\HCOData\HCOData\bin\Debug\netcoreapp2.2\HCOData.runtimeconfig.dev.json
+C:\Users\jova002\Desktop\ODATA\HCOData\HCOData\bin\Debug\netcoreapp2.2\HCOData.dll
+C:\Users\jova002\Desktop\ODATA\HCOData\HCOData\obj\Debug\netcoreapp2.2\HCOData.csprojAssemblyReference.cache
+C:\Users\jova002\Desktop\ODATA\HCOData\HCOData\obj\Debug\netcoreapp2.2\HCOData.csproj.CoreCompileInputs.cache
+C:\Users\jova002\Desktop\ODATA\HCOData\HCOData\obj\Debug\netcoreapp2.2\HCOData.RazorAssemblyInfo.cache
+C:\Users\jova002\Desktop\ODATA\HCOData\HCOData\obj\Debug\netcoreapp2.2\HCOData.RazorAssemblyInfo.cs
+C:\Users\jova002\Desktop\ODATA\HCOData\HCOData\obj\Debug\netcoreapp2.2\HCOData.AssemblyInfoInputs.cache
+C:\Users\jova002\Desktop\ODATA\HCOData\HCOData\obj\Debug\netcoreapp2.2\HCOData.AssemblyInfo.cs
+C:\Users\jova002\Desktop\ODATA\HCOData\HCOData\obj\Debug\netcoreapp2.2\HCOData.RazorTargetAssemblyInfo.cache
+C:\Users\jova002\Desktop\ODATA\HCOData\HCOData\bin\Debug\netcoreapp2.2\HCOData.pdb
+C:\Users\jova002\Desktop\ODATA\HCOData\HCOData\obj\Debug\netcoreapp2.2\HCOData.dll
+C:\Users\jova002\Desktop\ODATA\HCOData\HCOData\obj\Debug\netcoreapp2.2\HCOData.pdb
