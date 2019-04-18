@@ -1,7 +1,7 @@
 # ODataService-Example
 Steps
 
-1. Create the Database
+1. Create the Database and run database scripts on database.
 2. Create .Net Core Web Api in Visual Studio
 3. Install EntityFrameworkCore
 https://docs.microsoft.com/en-us/ef/core/get-started/install/
