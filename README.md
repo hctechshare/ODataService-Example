@@ -23,5 +23,16 @@ services.AddDbContext<CESDBContext>(options => options.UseSqlServer(connection))
 Run Install-Package Microsoft.AspNetCore.OData
 
 8. Add OData to your startup.cs file and add ability to do dependency injection to your route
+  
+  services.AddOData();
+  
+  app.UseMvc(routeBuilder =>
+  {
+      //user current routing scheme
+      routeBuilder.EnableDependencyInjection();
+      //enables odata functions
+      routeBuilder.Select().Filter().Expand().OrderBy().Count().MaxTop(null);
+  });
 
+  
 9. Add [EnableQuery] decorators to your controller.
